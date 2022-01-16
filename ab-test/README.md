@@ -1,4 +1,4 @@
-# Discover users behaviour in a Mobile app for order goods
+# Discover users behaviour in a Mobile app for ordering goods
 
 Graphic designers would like to change shrifts in the mobile app, but managers think it can be useless and negatively impact buyers. A data analyst should discover data and give them a conclusion.
 
