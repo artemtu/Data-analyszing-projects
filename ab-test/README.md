@@ -1,6 +1,6 @@
-# Discover users behavior in Mobile app for order goods
+# Discover users behaviour in a Mobile app for order goods
 
-Graphic designers would like to change shrifts in the mobile app, but managers think it can be useless and have a bad impact on buyers. Data analyst should discover data and give them a conclusion.
+Graphic designers would like to change shrifts in the mobile app, but managers think it can be useless and negatively impact buyers. A data analyst should discover data and give them a conclusion.
 
 We have a csv file with columns:
 - EventName;
@@ -9,4 +9,4 @@ We have a csv file with columns:
 - ExpId — expiriment id: 246 and 247 is control groups 248 is an experimental group
 
 ## Short conclusion
-We have no difference between experinetal and main groups
+We have no difference between experimental and main groups.
