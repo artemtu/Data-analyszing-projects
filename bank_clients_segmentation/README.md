@@ -30,6 +30,6 @@ Tasks:
 ## Short conclusion
 The most preferred borrowers are owners of flats. I guess these humans pay for the credit both and have a more stable job. Guys who had a wedding are also good creditors because they didn't take extensive credit and relatives present money. As a result, students and car owners aren't good clients for the bank. Obviously, students don't have a stable and good grade salary. Who bought a car can spend a lot of money on insurance and repair the car.
 - The difference between those who have children and who haven't children is 2%
-- Unmarried people have back payments of 10,1%, but married have 7,6%. Widows more preferable for the bank because, unlike different categories, they have back payments of 6,5%
+- Unmarried people have back payments of 9,7%, but married have 9,3%. Widows more preferable for the bank because, unlike different categories, they have back payments of 7,1%
 - We separated people into different categories and saw that lower-class have more back payments (9,1%)
 - Weddings and flats are the best categories for the bank. Worst - cars (9,3%) and education (9,1%)
