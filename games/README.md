@@ -1,4 +1,4 @@
-# Analyze for games store. Popular platforms and genres in different regions.
+# Analyze for games store. Popular platforms and genres in different regions
 
 Our client is a game store. We have some historical information about sales, rating from users and experts, genres and platforms from open-source data. We need to identify the patterns that determine the success of the game. This will allow you to bid on a potentially popular product and plan advertising campaigns.
 
@@ -32,5 +32,10 @@ Description of the data
  * User_Score  (max 10)
  * Rating —  ESRB (англ. Entertainment Software Rating Board). Censure ratio for ages categories
 
-## Short conclusion
+## Conclusion
+
+1. We found out that platforms live for four-six years, but user's behaviour doesn't match with trends
+2. The most popular platforms are PS4 and Xbox one, especially in the USA. However, the store can order games for PS3 because this platform is popular in Europe, Japan and other counties
+3. The most popular genres are 'action', 'shooter' and 'sport'. The censure ratio correlates with sales, but the user's ratio does not
+4. We checked out two hypotheses, and as a result, the mean user's ratio between PC and Xbox one matched. But the mean user's ratio between 'action' and 'sport' doesn't do the same.
 
