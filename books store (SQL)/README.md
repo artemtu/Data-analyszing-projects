@@ -9,6 +9,41 @@ Tasks:
 - Find authors which a high grade on the books. We should find books with more than 50 pages
 - Find average user reviews which sent more than 50 reviews
 
+**Description of the data:**
+
+ *books*
+- book_id 
+- author_id
+- title 
+- num_pages — quantity of pages
+- publication_date 
+- publisher_id
+
+*authors*
+- author_id 
+- author 
+
+*publishers*
+- publisher_id 
+- publisher 
+
+*ratings*
+- rating_id 
+- book_id 
+- username 
+- rating 
+
+*reviews*
+- review_id 
+- book_id 
+- username 
+- text 
+
+The scheme of the database: https://pastenow.ru/GRSMX
+
+
+
+
 ## Conclusion
 
 1. Quantity of the books published after the 1 of January 2000 - 819
